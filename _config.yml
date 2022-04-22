@@ -8,7 +8,7 @@ defaults:
 
 title: Your Name Website
 subtitle: Further Digital Fabrication & Prototyping
-baseurl: "/web-pk"  # the subpath of your site, e.g. /blog
+baseurl: "/EP1001-template"  # the subpath of your site, e.g. /blog
 # theme: panthera-jekyll
 remote-theme: christianezeani/panthera-jekyll
 
