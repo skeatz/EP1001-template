@@ -2,15 +2,12 @@
 layout: default
 ---
 
-# Computer Aided Design
-Notes on CAD
+# Electronics Production
+
+## PCB Basics, Processes and Workflows
+
+This topic covers the basics of PCB production, the materials, fabrication processes and the workflow from PCB artwork to completed PCBs. 
 
 ## Assignment
 
-As a minimum, your should document the following:
-- 2D raster: scale, crop, compress
-- 2D vector: 
-  - create (draw) objects using tools for 2D vector
-  - convert from 2D raster to 2D vector
-- 3D CAD software, e.g. Fusion 360
-  - model a possible final project
+Students are required to familiarise themselves with the PCB workflow, fabricate (mill, stuff and test) a PCB for a programmer board, which they will use in subsequent weeks.
