@@ -19,47 +19,47 @@ menu:
     icon: ""
 
   - text: About
-    link: /about.html
+    link: /about.md
     icon: ""
 
   - text: Introduction & Digital Fabrication Skills Review
-    link: /docs/01-intro.html
+    link: /docs/01-intro.md
     icon: ""
 
   - text: Electronics Production
-    link: /docs/02-elecProd.html
+    link: /docs/02-elecProd.md
     icon: ""
 
   - text: Electronics Design
-    link: /docs/03-elecDesign.html
+    link: /docs/03-elecDesign.md
     icon: ""
 
   - text: 2D Large Format Machining
-    link: /docs/04-2drouting.html
+    link: /docs/04-2drouting.md
     icon: ""
 
   - text: Embedded Programming
-    link: /docs/05-embedded.html
+    link: /docs/05-embedded.md
     icon: ""
 
   - text: Molding & Casting
-    link: /docs/06-moldcast.html
+    link: /docs/06-moldcast.md
     icon: ""
 
   - text: 3D Machining
-    link: /docs/07-3dmachining.html
+    link: /docs/07-3dmachining.md
     icon: ""
 
   - text: Interface & Application Programming
-    link: /docs/08-applicationsProg.html
+    link: /docs/08-applicationsProg.md
     icon: ""
 
   - text: Final Project
-    link: /docs/09project.html
+    link: /docs/09project.md
     icon: ""
 
   - text: Contact
-    link: /contact.html
+    link: /contact.md
     icon: ""
 
 
