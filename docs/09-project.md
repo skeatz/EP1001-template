@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Final Project
-Summary project for the Digital Fabrication & Prototyping Fundamentals module
+Summary project for the Further Digital Fabrication & Prototyping module
 
 Document your project development here, as well as the final project outcome. For example your project could be broken down into the following sections:
 
@@ -15,11 +15,11 @@ What is your final project about, what does it do? Add a concept sketch or diagr
 
 Add the implementation details of your final project. What are the parts or sub-systems in your project. Add screen captures and design files for the various technologies used in your project
 
-- ### CAD
-- ### 3D Printing
-- ### Laser Cutting
-- ### Electronics
-- ### Programming
+- ### CAD (2D/3D design)
+- ### Subtractive manufacturing (large format or molding & casting)
+- ### Design & fabricate an embedded microcontroller board
+- ### Input and/or output device(s)
+- ### Programming the embedded board for the intended application
 
 ## Testing
 

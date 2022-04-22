@@ -2,5 +2,5 @@
 layout: default
 ---
 
-# Project Management
-Notes about project management
+# Computer Controlled Machining
+Notes on large format machining
